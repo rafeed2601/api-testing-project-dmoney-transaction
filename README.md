@@ -16,3 +16,4 @@ This is a demo fintech API, which can create users (Agents, Customers), Deposit 
 
 ## Newman report
 
+![newman report](https://github.com/rafeed2601/api-testing-project-dmoney-transaction/assets/67189529/5a572062-9e86-4c52-841d-a8e0163da800)
