@@ -6,6 +6,10 @@
 ## Project Description
 This is a demo fintech API, which can create users (Agents, Customers), Deposit money, withdraw money, send money, make payments, check balances, and transaction statements. Here I have chained multiple APIs using Postman and generated report using Newman.
 
+## Postman Documentation
+https://documenter.getpostman.com/view/25942131/2s9YsRb8e9
+
+
 ## How to run this project
 - Clone this project
     ``` https://github.com/rafeed2601/api-testing-project-dmoney-transaction ```
@@ -13,6 +17,12 @@ This is a demo fintech API, which can create users (Agents, Customers), Deposit 
     ``` npm i ```
 - Give the following command to run
     ``` node report.js ```
+
+## Testcase for DMoney Testing
+https://docs.google.com/spreadsheets/d/1qK8ExVK3s8YslC_PcmX6NVmrKsh2qkAxthXLXTrFO2I/edit?usp=sharing
+
+## Bug report
+https://docs.google.com/spreadsheets/d/1M8b_Fs7IkMqIPfAWVpvrM7KGxcHWS6CRvtUMJsc3oJ0/edit?usp=sharing
 
 ## Newman report
 
